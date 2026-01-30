@@ -9,3 +9,8 @@ Construído sob os princípios da **Arquitetura Hexagonal**, o serviço foca em 
 * **Ciclo de Vida:** Controle de status do cliente (Pendente, Ativo, Bloqueado, Cancelado).
 * **Consistência Eventual:** Criação de perfis automatizada via consumo de eventos do `ms-autenticacao`.
 * **Alta Disponibilidade:** Leitura otimizada de perfis através de camadas de cache.
+
+### 📈 Gestão e Planejamento
+Para garantir a transparência do desenvolvimento e o rastreio de melhorias, toda a documentação de Levantamento de Requisitos e o detalhamento das Sprints estão centralizados nas Issues deste repositório.
+
+Acompanhe o Roadmap: Você pode visualizar o progresso técnico, as definições de domínio e as metas de cada etapa clicando no link: [Issues](https://github.com/edbsjr/ms-cliente/issues)

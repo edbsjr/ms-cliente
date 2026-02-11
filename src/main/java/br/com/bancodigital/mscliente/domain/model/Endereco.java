@@ -1,15 +1,13 @@
 package br.com.bancodigital.mscliente.domain.model;
 
 import br.com.bancodigital.mscliente.domain.model.enums.UnidadeFederativa;
-import jakarta.persistence.Embeddable;
 import lombok.*;
 
 @Getter
-@Builder
+@Builder(toBuilder = true)
 @AllArgsConstructor
 @ToString
-@Embeddable
-public class EnderecoEmbeddable {
+public class Endereco{
     private String logradouro;
     private String cidade;
     private UnidadeFederativa uf;

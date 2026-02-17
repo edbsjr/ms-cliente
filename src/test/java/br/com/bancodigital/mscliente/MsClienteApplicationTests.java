@@ -1,4 +1,4 @@
-package br.com.bancodigital.ms_cliente;
+package br.com.bancodigital.mscliente;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

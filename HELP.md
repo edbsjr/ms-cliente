@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'br.com.bancodigital.ms-cliente' is invalid and this project uses 'br.com.bancodigital.ms_cliente' instead.
+* The original package name 'br.com.bancodigital.ms-cliente' is invalid and this project uses 'br.com.bancodigital.mscliente' instead.
 
 # Getting Started
 

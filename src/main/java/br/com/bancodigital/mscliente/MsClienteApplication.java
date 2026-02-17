@@ -1,4 +1,4 @@
-package br.com.bancodigital.ms_cliente;
+package br.com.bancodigital.mscliente;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
